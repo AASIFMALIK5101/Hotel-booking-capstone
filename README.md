@@ -8,7 +8,6 @@
 All duplicate rows were dropped.
 
 ### (2) Handling null values
-- Null values in column `company` were replaced by 0.
 - Null values in column `country` were replaced by 'others'.
 - Null values in column `children` were replaced by the mean of the column.
   
