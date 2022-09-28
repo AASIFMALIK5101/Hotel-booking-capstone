@@ -15,7 +15,7 @@
 
 
 
-- 📫 How to reach me **aasifmalik5101**
+- 📫 How to reach me **aasifmalik5101@gmail.com**
 
 
 
